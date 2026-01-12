@@ -58,7 +58,7 @@
 
 ## 🧠 About Me  
 
-🎓 18 y.o. tech enthusiast — graduate from **SMKN 5 Kuningan**  
+🎓 19 y.o. tech enthusiast — graduate from **SMKN 5 Kuningan**  
 🧩 Experienced with **C, C++, C#, Java, and React**  
 📱 Currently developing **AI STUDY** (pixel art Android app using Java + Hugging Face API)  
 🧑‍💻 Building **open-source projects** like *perf-wizard*, focusing on performance tools for JS/TS  
