@@ -1,29 +1,36 @@
-<h1 align="center">Welcome to my GitHub</h1>
+<h1 align="center">Welcome to My GitHub 👋</h1>
+
+<p align="center">
+  <b>Arie — Android • AI • Game Tech Enthusiast</b><br/>
+  Turning ideas into real, working software.
+</p>
 
 ---
 
-### Hi there, I'm **ARIE!** 👋  
-- 💻 Android & AI Developer in progress  
-- 🌱 Currently learning Java, Android Studio, and Machine Learning  
-- 🎮 Passionate about building apps and exploring game tech  
+## 👋 Hi, I'm **Arie**
+
+- 💻 **Android & AI Developer** (in progress)
+- 🎮 Aspiring **Game Developer** (technical-focused, not just design)
+- 🌱 Currently learning **Java, Android Development, Machine Learning**
+- 🧠 Strong interest in **performance optimization & system-level thinking**
 
 ---
 
-## ⚙️ Arie GitHub Analytics  
+## ⚙️ GitHub Analytics
 
 <div align="center">
 
-### 🧠 My GitHub Statistics  
+### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Airyshtoteles&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github)
 
-### 🔥 Streak Progress  
+### 🔥 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Airyshtoteles&theme=midnight-purple&hide_border=true)
 
 </div>
 
 ---
 
-## 🧩 My Programming Languages  
+## 🧩 Programming Languages
 
 <div align="center">
 
@@ -33,14 +40,14 @@
 
 ---
 
-## 📊 Extra GitHub Stats  
+## 📊 Extra GitHub Stats
 
 <div align="center">
 
-![Stars](https://img.shields.io/badge/Total%20Stars-6-yellow?style=for-the-badge)  
-![Commits](https://img.shields.io/badge/Total%20Commits-183-blue?style=for-the-badge)  
-![PRs](https://img.shields.io/badge/Total%20PRs-12-brightgreen?style=for-the-badge)  
-![Issues](https://img.shields.io/badge/Total%20Issues-1-orange?style=for-the-badge)  
+![Stars](https://img.shields.io/badge/Total%20Stars-6-yellow?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Total%20Commits-183-blue?style=for-the-badge)
+![PRs](https://img.shields.io/badge/Total%20PRs-12-brightgreen?style=for-the-badge)
+![Issues](https://img.shields.io/badge/Total%20Issues-1-orange?style=for-the-badge)
 ![Grade](https://img.shields.io/badge/Grade-A%2B-purple?style=for-the-badge)
 
 </div>
@@ -56,19 +63,34 @@
 
 ---
 
-## 🧠 About Me  
+## 🧠 About Me
 
-🎓 19 y.o. tech enthusiast — graduate from **SMKN 5 Kuningan**  
-🧩 Experienced with **C, C++, C#, Java, and React**  
-📱 Currently developing **AI STUDY** (pixel art Android app using Java + Hugging Face API)  
-🧑‍💻 Building **open-source projects** like *perf-wizard*, focusing on performance tools for JS/TS  
-☁️ Interested in **machine learning**, **game development**, and **AI integration**
+🎓 **19 y.o. tech enthusiast**, graduate from **SMKN 5 Kuningan**  
+🧩 Comfortable with **C, C++, C#, Java, React**  
+📱 Currently developing **AI STUDY** —  
+&nbsp;&nbsp;&nbsp;&nbsp;Pixel-art Android learning app using **Java + Hugging Face API**  
+🧑‍💻 Maintaining **open-source projects**, including:  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 **perf-wizard** — JS/TS performance analysis tool  
+🎮 Working toward becoming a **Game Developer** with focus on:  
+&nbsp;&nbsp;&nbsp;&nbsp;• Engine-side logic  
+&nbsp;&nbsp;&nbsp;&nbsp;• Performance & systems  
+&nbsp;&nbsp;&nbsp;&nbsp;• Experimental mechanics
+
+☁️ Interested in **Machine Learning**, **AI integration**, and **game technology**
 
 ---
 
-> 🪶 *“Perjalanan yang luar biasa dimulai dengan satu langkah kecil.”*  
+## 🚀 Current Focus
+
+- Android app architecture & clean code
+- AI integration into real products
+- Performance analysis & optimization
+- Building portfolio-ready, production-minded projects
 
 ---
 
-⭐ **If you like my projects, don’t forget to leave a star — it means a lot!**  
+> 🪶 *“Perjalanan yang luar biasa dimulai dengan satu langkah kecil.”*
 
+---
+
+⭐ **If you like my work, consider giving a star — it really helps and means a lot.**
