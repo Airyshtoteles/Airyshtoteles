@@ -21,10 +21,10 @@
 <div align="center">
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Airyshtoteles&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=airyshtoteles&show_icons=true&theme=midnight-purple&hide_border=true)
 
 ### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Airyshtoteles&theme=midnight-purple&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=airyshtoteles&theme=midnight-purple&hide_border=true)
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Airyshtoteles&layout=compact&theme=midnight-purple&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airyshtoteles&layout=compact&theme=midnight-purple&hide_border=true)
 
 </div>
 
